@@ -1,0 +1,79 @@
+.carousel-inner{
+	width: 100%;
+	height: 800px;
+}
+.carousel-item >img{
+	object-fit: scale-down;
+}
+
+
+
+
+.btnwpp{
+	position: fixed;
+	height: 75px;
+	width: 75px;
+	line-height: 55px;
+	bottom: 30px;
+	right: 30px;
+	background: #0df053;
+	border-radius: 50px;
+	text-align: center;
+	font-size: 30px;
+	box-shadow: 0px 1px 10px rgba(0,0,0,0.3);
+	z-index: 100;
+}
+.btnwpp:hover{
+	text-decoration: none;
+	color: #0df053;
+	background: #fff;
+	height: 82px;
+	width: 82px;
+}
+.navbar{
+	background-color: transparent !important;
+}
+.navbar.scrolled{
+	background: #000 !important;
+}
+
+.tours{
+	align-items: center;
+	text-align: center;
+}
+
+.card{
+	text-align: center;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+
+.logotaxi{
+	display:block;
+	margin:auto;
+	width: 240px;
+	height: 140px;
+}
+
+.logotours{
+	display:block;
+	margin:auto;
+	width: 220px;
+	height: 140px;
+}
+
+#Servicios{
+	margin-top: 45px;
+	margin-bottom: 20px;
+	
+}
+
+.NuestrosTours{
+	margin-right: 30px;
+	margin-left: 30px;
+}
+
+.logonav{
+	width: 165px;
+	height: 120px;
+}
